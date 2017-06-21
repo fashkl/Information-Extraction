@@ -1,0 +1,4 @@
+Namespace(filename='samples.txt', generate_graph=False, verbose=True)
+filename = samples.txt
+Executing command = cd /home/ali/Desktop/NLP projects/Stanford-OpenIE-Python/;cd stanford-openie; java -mx4g -cp "stanford-openie.jar:stanford-openie-models.jar:lib/*" edu.stanford.nlp.naturalli.OpenIE ../samples.txt  -format ollie > /tmp/openie/out.txt
+[['Google', ' bought', ' IBM'], ['Google', ' bought IBM for', ' 100 million dollars']]
